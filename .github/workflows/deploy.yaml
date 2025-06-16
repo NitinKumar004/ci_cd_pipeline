@@ -20,4 +20,4 @@ jobs:
           go-version: '1.22'
 
       - name: Go build
-        run: go build -o master
+        run: go build -o master mainfile.go
