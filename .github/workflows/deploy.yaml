@@ -19,4 +19,4 @@ jobs:
           go-version: '1.22'
 
       - name: Go build
-        run: go build -o main
+        run: go build -o master
